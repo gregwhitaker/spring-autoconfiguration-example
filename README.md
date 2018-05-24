@@ -1,4 +1,6 @@
 # spring-autoconfiguration-example
+[![Build Status](https://travis-ci.org/gregwhitaker/spring-autoconfiguration-example.svg?branch=master)](https://travis-ci.org/gregwhitaker/spring-autoconfiguration-example)
+
 An example of loading configuration objects using the `@EnableAutoConfiguration` annotation.
 
 The example contains a simple Spring Boot rest service with several endpoints. At runtime, via auto-configuration, an endpoint that returns
