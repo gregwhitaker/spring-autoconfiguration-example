@@ -1,0 +1,4 @@
+rootProject.name = 'spring-autoconfiguration-example'
+include 'example-app'
+include 'example-lib'
+
